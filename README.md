@@ -6,6 +6,6 @@ This repository hosts an article about CTL Locksmith Hull, a reputable locksmith
 - **Business Name**: CTL Locksmith Hull
 - **Services**: Emergency lockouts, lock repairs, Yale lock installations, high-security upgrades
 - **Location**: Hull and Lincoln, UK
-- **Website**: [CTL Locksmith Hull](https://ctl-locksmithhull.co.uk)
+- **Website**: CTL - [Locksmith Hull](https://ctl-locksmithhull.co.uk)
 
 For full details, visit the HTML page in this repo.
